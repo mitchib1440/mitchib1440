@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Mitchi! I'm 24 and from the UK!
+I'm Mitchi! I'm 25 and from the UK!
 I've dipped my toe into the world of programming a few times over my life but never really got too far. I could read some code but definitely not write it. But thanks to AI (Yeah, yeah. I know we're all sick of it by now) I'm finally able to make something.
 
 ## SpeakThat!
